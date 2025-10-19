@@ -13,7 +13,7 @@
 
 - 📄 Saiba mais sobre mim [https://www.linkedin.com/in/felipe-almeida-2b0354147/](https://www.linkedin.com/in/felipe-almeida-2b0354147/)
 
-- ⚡ Curiosidades sobre mim **Jogo de basquete e FPS.**
+- ⚡ Curiosidades sobre mim **Jogo basquete e FPS.**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
