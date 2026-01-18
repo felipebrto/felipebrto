@@ -1,5 +1,5 @@
 <h1 align="center">Olá👋, Eu sou Felipe de Almeida Brito</h1>
-<h3 align="center">Desbravador júnior no mundo dos dados, adquirindo conhecimento das modelagens de dados e estatísticas relacionadas.</h3>
+<h3 align="center">Desbravador no mundo dos dados, adquirindo conhecimento de modelagens de dados e estatísticas relacionadas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipebrto&label=Profile%20views&color=0e75b6&style=flat" alt="felipebrto" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📄 Saiba mais sobre mim [https://www.linkedin.com/in/felipe-almeida-2b0354147/](https://www.linkedin.com/in/felipe-almeida-2b0354147/)
 
-- ⚡ Curiosidades sobre mim **Jogo basquete e FPS.**
+- ⚡ Curiosidades sobre mim **Gosto de basquete e FPS.**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
